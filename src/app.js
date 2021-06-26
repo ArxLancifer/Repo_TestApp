@@ -117,7 +117,7 @@ app.get('*',(req, res)=>{
 })
 
 
-console.log(process.env)
+
 // app.listen(3000, ()=>{
 //     console.log('Server is running on port 3000.')
 // });
@@ -125,4 +125,4 @@ app.listen(port, ()=>{
     console.log('Server is running on port 3000.')
 });
 
-//section 8 lecture 6 
+//section 9 lecture 9 
